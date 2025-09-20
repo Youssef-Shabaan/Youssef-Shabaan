@@ -4,11 +4,6 @@
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef+Shabaan;I'm+a+Software+Engineer+%F0%9F%98%8A;I'm+a+Backend+Developer+%F0%9F%92%BB" alt="Typing SVG" />
-</h1>
-
-## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> About Me
 ✨ Passionate Backend Developer  
 🎓 Currently learning **.NET & Software Engineering concepts**  
 🚀 Love building scalable apps & problem solving  
@@ -31,16 +26,9 @@
 
 ---
 
-## 🚀 Projects
-- 🔹 [Project 1](#) – short description here  
-- 🔹 [Project 2](#) – short description here  
-- 🔹 [Project 3](#) – short description here  
-
----
-
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:youssefshabaan305@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Youssef-Shabaan"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
 </p>
