@@ -85,7 +85,7 @@
 <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## Gifs6
-<img align="center" alt="Coding Man" width="400" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+<img align="center" alt="Coding Man" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 
 
