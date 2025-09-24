@@ -4,7 +4,7 @@
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> About Me
 
-<img align="right" alt="Coding Man" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" alt="Coding Man" width="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 ✨ Passionate **Backend Developer**  
 🎓 Currently learning **.NET & Software Engineering concepts**  
