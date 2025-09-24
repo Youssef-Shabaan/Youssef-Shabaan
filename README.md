@@ -25,8 +25,9 @@
 ### 🔧 Tools & Version Control
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
-  <img src="https://skillicons.dev/icons?i=notion" />
+  <img src="https://cdn.simpleicons.org/notion/000000/ffffff" />
 </p>
+
 
 
 ---
