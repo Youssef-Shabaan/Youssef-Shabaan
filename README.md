@@ -3,6 +3,9 @@
 </h1>
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> About Me
+
+<img align="right" alt="Coding Man" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
 ✨ Passionate **Backend Developer**  
 🎓 Currently learning **.NET & Software Engineering concepts**  
 🚀 Love building scalable apps & problem solving  
@@ -68,24 +71,3 @@
 		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
 	</picture>
 </p>
-
-## Gifs1
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
-## Gifs2
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif">
-
-## Gifs3
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif">
-
-## Gifs4
-<img align="center" alt="Coding Man" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
-## Gifs5
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## Gifs6
-<img align="center" alt="Coding Man" width="400" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
-
-
-
