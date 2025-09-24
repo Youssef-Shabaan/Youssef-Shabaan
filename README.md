@@ -68,3 +68,24 @@
 		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
 	</picture>
 </p>
+
+## Gifs1
+<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+## Gifs2
+<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif">
+
+## Gifs3
+<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif">
+
+## Gifs4
+<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+
+## Gifs5
+<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## Gifs6
+<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+
+
