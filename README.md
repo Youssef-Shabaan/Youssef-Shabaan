@@ -22,6 +22,13 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
+
+### 🏗️ Frameworks & ORMs
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET%20LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
 ### 🔧 Tools & Version Control
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
