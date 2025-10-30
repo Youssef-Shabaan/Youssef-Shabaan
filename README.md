@@ -4,8 +4,8 @@
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> About Me
 ✨ Passionate **Backend Developer**  
-🎓 Currently learning **.NET & Software Engineering concepts**  
-🚀 Love building scalable apps & problem solving  
+🎓 Currently learning **.NET, ASP.NET MVC & Software Engineering concepts**  
+🚀 Love building scalable apps & solving problems  
 🌱 Always curious to learn new technologies  
 
 ---
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,js" />
 </p>
 
 ### 🗄️ Databases
@@ -22,22 +22,17 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-
 ### 🏗️ Frameworks & ORMs
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET%20LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20LINQ-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-
 ### 🔧 Tools & Version Control
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
-  <img src="https://skillicons.dev/icons?i=notion" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,notion" />
 </p>
-
-
-
 
 ---
 
@@ -55,7 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Shabaan&layout=compact&theme=tokyonight" height="180" />
 </p>
 
-
 ---
 
 ## 📫 Connect with Me
@@ -65,14 +59,4 @@
   <a href="https://github.com/Youssef-Shabaan"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
 </p>
 
-## <br>
-
-## 🐍 A Snake Eating My Contributions Graph
-
-<p align="center">
-	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
-	</picture>
-</p>
+---
