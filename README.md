@@ -38,7 +38,7 @@
 
 ## 🧩 Problem Solving
 <p align="center">
-  <a href="https://leetcode.com/Youssef_Shaban/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/Youssef_Shabaan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/_Y0STAFNDI_"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
