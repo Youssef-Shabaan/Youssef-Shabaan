@@ -3,10 +3,10 @@
 </h1>
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> About Me
-✨ Passionate **Backend Developer**  
-🎓 Currently learning **.NET, ASP.NET MVC & Software Engineering concepts**  
-🚀 Love building scalable apps & solving problems  
-🌱 Always curious to learn new technologies  
+✨ Passionate **Backend Developer (.NET)**
+🎓 Focused on learning .NET ecosystem & software engineering fundamentals the right way
+🚀 Enjoy building scalable, clean, and maintainable systems
+🌱 Curious, driven, and always eager to learn new technologies
 
 ---
 
@@ -24,15 +24,26 @@
 
 ### 🏗️ Frameworks & ORMs
 <p align="center">
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET%20LINQ-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+  <!-- Data & ORM -->
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p> 
+  <img src="https://img.shields.io/badge/.NET%20LINQ-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+  <!-- APIs & Modern .NET -->
+  <img src="https://img.shields.io/badge/Minimal%20APIs-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+
 
 ### 🔧 Tools & Version Control
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,notion" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,notion,postman" />
 </p>
+
 
 ---
 
